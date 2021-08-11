@@ -1,7 +1,6 @@
 const CONFIG = {
     introTitle: 'nàyy b oi!',
     introDesc: `mình có điều này muốn hỏi b á nhớ phải trả lời thật lòng nhaaa,
-   
     btnIntro: 'hihi',
     title: 'b iu mình có phải hongg 🥺',
     desc: 'nếu b không trả lời mà thoát ra tức là muốn làm vợ mình rùi đó nha :3 ',
@@ -14,4 +13,5 @@ const CONFIG = {
     messDesc: 'hôm nào mình mua tsua cho b nhaaaaa',
     btnAccept: 'okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    }
+
