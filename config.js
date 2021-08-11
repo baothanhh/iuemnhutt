@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'nàyy b oi!',
-    introDesc: `mình có điều này muốn hỏi b á nhớ phải trả lời thật lòng nhaaa,
+    introDesc: `mình có điều này muốn hỏi b á nhớ phải trả lời thật lòng nhaaa`,
     btnIntro: 'hihi',
     title: 'b iu mình có phải hongg 🥺',
     desc: 'nếu b không trả lời mà thoát ra tức là muốn làm vợ mình rùi đó nha :3 ',
@@ -12,6 +12,6 @@ const CONFIG = {
     mess: 'mình biết mà 🥰. iu b nhìu nhìu 😘😘',
     messDesc: 'hôm nào mình mua tsua cho b nhaaaaa',
     btnAccept: 'okiiiii lun <3',
-    messLink: 'http://fb.com', 
-    }
+    messLink: 'http://fb.com' 
+}    
 
