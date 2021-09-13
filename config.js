@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Không hề thích lunn',
     question:'Tại sao Hà lại thích Huy Phan thíaaa',
     btnReply: 'Gửi',
-    reply: 'Yêu thì yêu mà không yêuu thì yêu <33333333',
+    reply: 'Thích thì thích mà không thích thì thích <33333333',
     mess: 'Biết rùi đỏ Hà nhớ đối xử tốt với Huy Phan nhaaa',
     messDesc: 'Giờ không ngại gì mà nhắn tin cho Huy Phan nào!',
     btnAccept: 'Okiiiii lun <3',
