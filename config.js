@@ -12,6 +12,6 @@ const CONFIG = {
     mess: 'Biết rùi đỏ Hà nhớ đối xử tốt với Huy Phan nhaaa',
     messDesc: 'Giờ không ngại gì mà nhắn tin cho Huy Phan nào!',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' 
+    messLink: 'https://www.facebook.com/profile.php?id=100059970498474' 
 }    
 
